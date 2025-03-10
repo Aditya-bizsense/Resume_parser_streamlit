@@ -1,0 +1,10 @@
+chromadb
+groq
+pdfplumber
+fitz
+pymupdf
+dotenv
+streamlit
+jupyter
+fastapi
+uvicorn

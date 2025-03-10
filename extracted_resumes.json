@@ -1,0 +1,326 @@
+[
+    {
+        "name": "Charles McTurland",
+        "contact": {
+            "email": "cmcturland@email.com",
+            "phone": "(123) 456-7890",
+            "linkedin": "LinkedIn"
+        },
+        "skills": [
+            "Python (Django)",
+            "Javascript (NodeJS, ReactJS, jQuery)",
+            "SQL (MySQL, PostgreSQL, NoSQL)",
+            "HTML5/CSS",
+            "AWS",
+            "Unix",
+            "Git"
+        ],
+        "education": [
+            {
+                "degree": "B.S.",
+                "field": "Computer Science",
+                "university": "University of Pittsburgh",
+                "location": "Pittsburgh, PA",
+                "startDate": "September 2008",
+                "endDate": "April 2012"
+            }
+        ],
+        "projects": [
+            {
+                "name": "Poker Simulation",
+                "description": "Built a full-stack web app to simulate and visualize outcomes of poker hands against opponents of different play styles",
+                "technologies": [
+                    "open source cards.js",
+                    "sci-kit learn in Python"
+                ]
+            }
+        ],
+        "experience": [
+            {
+                "title": "Software Engineer",
+                "company": "Embark",
+                "location": "New York, NY",
+                "startDate": "January 2015",
+                "endDate": "current",
+                "achievements": [
+                    "Re-architected a multi-page web app into a single page web-app, boosting yearly revenue by $1.4M",
+                    "Constructed a streamlined ad-serving platform that scaled to 35M users and improved page speed by 15%",
+                    "Iterated platform for college admissions, collaborating with a group of 4 engineers to create features across the software"
+                ]
+            },
+            {
+                "title": "Software Engineer",
+                "company": "MarketSmart",
+                "location": "Washington, DC",
+                "startDate": "April 2012",
+                "endDate": "January 2015",
+                "achievements": [
+                    "Built RESTful APIs that served data to the JavaScript front-end based on dynamically chosen user inputs",
+                    "Built internal tool using NodeJS and Pupeteer.js to automate QA and monitoring of donor-facing web app, which improved CTR by 3%",
+                    "Reviewed code and conducted testing for 3 additional features on donor-facing web app that increased contributions by 12%"
+                ]
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "Marketing Science Company",
+                "location": "Pittsburgh, PA",
+                "startDate": "April 2011",
+                "endDate": "March 2012",
+                "achievements": [
+                    "Partnered with a developer to implement RESTful APIs in Django, enabling analytics team to increase reporting speed by 24%",
+                    "Built a unit testing infrastructure for a client application using Selenium, reducing the number of bugs reported by the client by 11% month over month"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CYNTHIA DWAYNE",
+        "contact": {
+            "email": "cynthia@beamjobs.com",
+            "phone": "(123) 456-7890",
+            "linkedin": "LinkedIn",
+            "github": "Github"
+        },
+        "summary": "Software Developer with 7+ years of experience developing scalable and well-documented code",
+        "skills": [
+            "Python (Django)",
+            "SQL (PostgreSQL, MySQL)",
+            "JavaScript (ES6, React, Redux, Node.js)",
+            "Typescript",
+            "HTML/ CSS",
+            "CI/CD",
+            "Cloud (GCP, AWS)"
+        ],
+        "education": [
+            {
+                "degree": "Bachelor of Science",
+                "field": "Computer Science",
+                "university": "University of Delaware",
+                "dates": "August 2008 - May 2012"
+            }
+        ],
+        "experience": [
+            {
+                "title": "Software Developer",
+                "company": "QuickBooks",
+                "location": "Brooklyn, NY",
+                "dates": "January 2017 - current",
+                "achievements": [
+                    "Worked on the payments team to save time and improve cash flow for over 50,000 customers",
+                    "Led the migration from AWS to GCP to reduce cloud costs by $260,000 per year",
+                    "Mentored 3 junior front-end developers on the team on React"
+                ]
+            },
+            {
+                "title": "Front-End Developer",
+                "company": "",
+                "location": "New York, NY",
+                "dates": "January 2014 - December 2016",
+                "achievements": [
+                    "Contributed to the in-house UI library to create reusable components",
+                    "Created a web app MVP for a store delivery management platform",
+                    "Added features to meditation app with 5,000+ monthly users"
+                ]
+            },
+            {
+                "title": "Help Desk Analyst",
+                "company": "Kelly",
+                "location": "New York, NY",
+                "dates": "June 2012 - January 2014",
+                "achievements": [
+                    "Diagnosed technical issues for 30+ clients per day",
+                    "Successfully reached solutions for 92% of computer errors",
+                    "Created user accounts for 50+ clients per week"
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "name": "Store Delivery Management Platform",
+                "description": "Created a web app MVP for a store delivery management platform with 200+ business customers using React and Redux"
+            },
+            {
+                "name": "Meditation App",
+                "description": "Added features to meditation app with 5,000+ monthly users, enabling audio and video uploads using React and Redux"
+            }
+        ]
+    },
+    {
+        "name": "Kristen Connelly",
+        "contact": {
+            "address": "1515 Pacific Ave, Los Angeles, CA 90291, United States",
+            "phone": "3868683442",
+            "email": "email@email.com"
+        },
+        "skills": [
+            "Adobe Premiere Pro",
+            "DaVinci Resolve",
+            "Camera Boom",
+            "Light Boom",
+            "Mic Boom",
+            "English",
+            "Dutch",
+            "Flemish"
+        ],
+        "education": [
+            {
+                "degree": "BA",
+                "field": "Film and Television",
+                "university": "Boston University",
+                "location": "Boston"
+            },
+            {
+                "course": "Advanced Course in Digital Video Editing",
+                "institute": "ADMEC Multimedia Institute",
+                "location": "Online"
+            },
+            {
+                "certification": "Hootsuite Certified Professional",
+                "institute": "Hootsuite Media",
+                "location": "Albany, NY"
+            },
+            {
+                "certification": "Adobe CS5 Certified",
+                "institute": "University of Delaware",
+                "location": "Newark, DE"
+            }
+        ],
+        "experience": [
+            {
+                "job": "Video Production Assistant",
+                "company": "Blue Penguin Designs",
+                "location": "Bar Bigha",
+                "duration": "FEBRUARY 2021 \u2014 PRESENT"
+            },
+            {
+                "job": "Video Production Assistant",
+                "company": "Botle Bob Advertising",
+                "location": "Opelousas",
+                "duration": "JANUARY 2019 \u2014 FEBRUARY 2021"
+            }
+        ]
+    },
+    {
+        "name": "Charles McTurland",
+        "contact": {
+            "email": "cmcturland@email.com",
+            "phone": "(123) 456-7890",
+            "linkedin": "linkedin"
+        },
+        "skills": [
+            "Python",
+            "Django",
+            "Javascript",
+            "NodeJS",
+            "ReactJS",
+            "jQuery",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "NoSQL",
+            "HTML5",
+            "CSS",
+            "AWS",
+            "Unix",
+            "Git"
+        ],
+        "education": [
+            {
+                "degree": "B.S.",
+                "fieldOfStudy": "Computer Science",
+                "university": "University of Pittsburgh",
+                "startDate": "September 2008",
+                "endDate": "April 2012"
+            }
+        ],
+        "projects": [
+            {
+                "name": "Poker Simulation",
+                "technologies": [
+                    "Python",
+                    "sci-kit learn",
+                    "cards.js"
+                ]
+            }
+        ],
+        "certifications": [],
+        "experience": [
+            {
+                "title": "Software Engineer",
+                "company": "Embark",
+                "location": "New York, NY",
+                "startDate": "January 2015",
+                "endDate": "current"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "MarketSmart",
+                "location": "Washington, DC",
+                "startDate": "April 2012",
+                "endDate": "January 2015"
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "Marketing Science Company",
+                "location": "Pittsburgh, PA",
+                "startDate": "April 2011",
+                "endDate": "March 2012"
+            }
+        ]
+    },
+    {
+        "name": "Janine Nel",
+        "contact": {
+            "address": "1515 Pacific Ave, Los Angeles, CA 90291, United States",
+            "phone": "3868683442",
+            "email": "email@email.com"
+        },
+        "skills": [
+            "AutoCAD",
+            "Industry Trends & Sales Forecasting",
+            "Knowledge of Technical Diagrams",
+            "Engineering",
+            "Agile Project Management"
+        ],
+        "education": [
+            {
+                "degree": "Masters in Industrial Engineering",
+                "institution": "Harvard University",
+                "location": "Miami",
+                "dates": "January 2019 \u2014 May 2022"
+            },
+            {
+                "degree": "Professional Engineering (PE) Exam",
+                "institution": "National Council of Examiners for Engineering and Surveying (NCEES)",
+                "location": "Newton",
+                "dates": "January 2018 \u2014 December 2019"
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Certified Associate in Project Management (CAPM)",
+                "institution": "Project Management Institute (PMI)",
+                "location": "Seneca, South Carolina",
+                "dates": "May 2021 \u2014 May 2021"
+            }
+        ],
+        "experience": [
+            {
+                "title": "Sales Engineer",
+                "company": "Engen Oil",
+                "location": "Jacksonville",
+                "dates": "May 2022 \u2014 May 2022"
+            },
+            {
+                "title": "Sales Engineer",
+                "company": "Quest Medical",
+                "location": "Los Angeles",
+                "dates": "January 2019 \u2014 April 2021"
+            }
+        ],
+        "languages": [
+            "English",
+            "Dutch"
+        ]
+    }
+]
